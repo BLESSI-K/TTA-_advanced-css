@@ -1,0 +1,13 @@
+.contanier{
+    display: flex;
+    /*flex-direction: row;*/
+    /*flex-direction: column;*/
+   /*flex-direction: column-reverse;*/ 
+   /*flex-direction: row-reverse;*/
+}
+
+
+.content{
+    border: 1px solid blue;
+    margin: 0px 20px;
+}
